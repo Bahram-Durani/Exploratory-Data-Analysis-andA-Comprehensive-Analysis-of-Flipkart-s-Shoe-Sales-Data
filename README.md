@@ -1,7 +1,5 @@
 # A-Comprehensive-Analysis-of-Flipkart-s-Shoe-Sales-Data
 
-## Shoe Data Extraction and Analysis Project
-
 ### Overview
 
 * In this project, our primary objective is to extract shoes data from the Flipkart website. We have utilized Selenium and BeautifulSoup to scrape data for both male and female shoes. The extracted data includes various attributes such as brand, final price, gender, and other relevant information.
@@ -22,5 +20,7 @@
 
 * In addition to Matplotlib visualizations, we have also uploaded a Power BI file for more advanced and interactive visualizations. Power BI enables deeper exploration and analysis of the shoe data, offering users a dynamic and intuitive interface for data interpretation.
 
+### Acknowledgment
 
+- This project has been conducted at Innomatics Research Lab, where we had the opportunity to leverage state-of-the-art tools and resources to perform our data extraction and analysis tasks.
 
